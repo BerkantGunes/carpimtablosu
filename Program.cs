@@ -17,6 +17,7 @@ namespace carpimtablosu
                 {
                     Console.Write(i + "X" + j + "=" + i*j + "\t"); // \t tab tusuna denk geliyor o da yanyana yazdirmamizi saglar.
                 }
+                Console.WriteLine();
             }
         }
     }
